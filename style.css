@@ -491,12 +491,12 @@
     z-index: -1;
   }
   
-  .latest-game .section-title { margin-block-end: 80px; }
+  .latest-game .section-title { margin-block-end: 100px; }
   
   .latest-game .has-scrollbar {
-    margin-inline: -15px;
-    padding-inline: 15px;
-    scroll-padding-inline-start: 15px;
+    margin-inline: -30px;
+    padding-inline: 30px;
+    scroll-padding-inline-start: 30px;
   }
   
   .latest-game-card {
