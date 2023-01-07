@@ -359,7 +359,7 @@
   .header-actions {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 15px;
   }
   
   
@@ -1022,7 +1022,7 @@
      * HEADER
      */
   
-    .header-actions { gap: 40px; }
+    .header-actions { gap: 25px; }
   
   
     /**
